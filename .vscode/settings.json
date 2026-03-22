@@ -1,0 +1,12 @@
+{
+  "tinymist.exportPdf": "onSave",
+  "tinymist.serverPath": "${workspaceFolder}/.vscode/tinymist-wrapper.sh",
+  "tinymist.formatterMode": "typstyle",
+
+  "[typst]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "myriad-dreamin.tinymist"
+  },
+
+  "tinymist.preview.refresh": "onSave"
+}
